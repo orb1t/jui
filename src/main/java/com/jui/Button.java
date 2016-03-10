@@ -12,8 +12,8 @@ import java.util.Set;
 /**
  * Button
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Add dispatcher that sends events to the Text but does not consume the event
 public class Button extends Component {

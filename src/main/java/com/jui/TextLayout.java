@@ -9,8 +9,8 @@ import java.awt.image.BufferedImage;
 /**
  * TextLayout
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class TextLayout implements com.jui.LayoutManager {
     @Override

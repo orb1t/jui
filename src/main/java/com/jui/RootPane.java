@@ -7,8 +7,8 @@ import java.util.Set;
 /**
  * RootPane
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class RootPane extends Component implements Focusable {
     @Override

@@ -5,8 +5,8 @@ import com.jui.Component;
 /**
  * FocusEvent
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class FocusEvent extends ComponentEvent {
     public static final int FOCUS_GAINED = 100;

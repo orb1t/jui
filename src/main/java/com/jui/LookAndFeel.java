@@ -11,8 +11,8 @@ import java.net.URL;
 /**
  * LookAndFeel
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class LookAndFeel extends Model {
     public static final Color TRANSPARENT = new Color(1.0f, 1.0f, 1.0f, 0f);

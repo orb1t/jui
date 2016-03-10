@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * ProgressBarImageBuilder
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ProgressBarImageBuilder extends ComponentImageBuilder {
     @Override

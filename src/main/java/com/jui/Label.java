@@ -7,8 +7,8 @@ import java.util.Set;
 /**
  * Label
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Add dispatcher that sends events to the Text but does not consume the event
 public class Label extends Component {

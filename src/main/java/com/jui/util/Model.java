@@ -7,8 +7,8 @@ import java.util.Map;
 /**
  * Model
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Model {
     private final Map<Object, Object> data = new HashMap<>();

@@ -3,8 +3,8 @@ package com.jui.event;
 /**
  * MouseAdapter
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public abstract class MouseAdapter implements MouseListener, MouseMotionListener, MouseWheelListener {
     @Override

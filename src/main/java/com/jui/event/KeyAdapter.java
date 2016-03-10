@@ -3,8 +3,8 @@ package com.jui.event;
 /**
  * KeyAdapter
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public abstract class KeyAdapter implements KeyListener {
     @Override

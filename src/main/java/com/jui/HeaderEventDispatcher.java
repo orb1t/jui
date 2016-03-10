@@ -13,8 +13,8 @@ import java.util.Set;
 /**
  * FrameEventDispatcher
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class HeaderEventDispatcher implements EventDispatcher {
     @Override

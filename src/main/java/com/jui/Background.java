@@ -10,8 +10,8 @@ import java.util.Set;
 /**
  * Background
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Background implements Overlay {
     private final Model model = new Model();

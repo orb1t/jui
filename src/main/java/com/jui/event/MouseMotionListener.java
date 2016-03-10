@@ -3,8 +3,8 @@ package com.jui.event;
 /**
  * MouseMotionListener
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public interface MouseMotionListener extends EventListener {
     public void onMouseDragged(MouseEvent event);

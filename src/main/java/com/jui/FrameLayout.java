@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * FrameLayout
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class FrameLayout implements LayoutManager {
     @Override

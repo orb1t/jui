@@ -7,8 +7,8 @@ import java.awt.*;
 /**
  * MouseEvent
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class MouseEvent extends ComponentEvent {
     public static final int NOBUTTON = 0;

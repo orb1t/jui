@@ -15,8 +15,8 @@ import java.util.Set;
 /**
  * SmokyGlass
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class SmokyGlass extends LookAndFeel {
     public SmokyGlass(Color color) {

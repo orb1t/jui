@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * ContainerImageBuilder
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ContainerImageBuilder extends ComponentImageBuilder {
     @Override

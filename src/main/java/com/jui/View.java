@@ -8,8 +8,8 @@ import java.util.Set;
 /**
  * View
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public abstract class View {
     private final Controller controller;

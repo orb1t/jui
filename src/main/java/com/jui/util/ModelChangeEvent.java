@@ -3,8 +3,8 @@ package com.jui.util;
 /**
  * ModelChangeEvent
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ModelChangeEvent {
     public static final int ADDITION = 1;

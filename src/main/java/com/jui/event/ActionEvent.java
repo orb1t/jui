@@ -5,8 +5,8 @@ import com.jui.Component;
 /**
  * ActionEvent
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ActionEvent extends ComponentEvent {
     public static final int ACTION_PERFORMED = 500;

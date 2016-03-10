@@ -9,8 +9,8 @@ import java.util.Set;
 /**
  * Text
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Add hover, and press text colors
 public class Text extends com.jui.Component {

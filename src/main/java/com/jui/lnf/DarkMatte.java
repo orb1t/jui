@@ -11,8 +11,8 @@ import java.awt.*;
 /**
  * DarkMatte
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 //TODO:Complete
 public class DarkMatte extends LookAndFeel {

@@ -7,8 +7,8 @@ import java.awt.*;
 /**
  * ImageCursor
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ImageCursor implements com.jui.Cursor {
     protected final Model model = new Model();

@@ -6,8 +6,8 @@ import java.util.Set;
 /**
  * HeaderLayout
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class HeaderLayout implements LayoutManager {
     @Override

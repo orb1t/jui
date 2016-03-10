@@ -8,8 +8,8 @@ import java.util.Objects;
 /**
  * Frame
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class Frame extends com.jui.Component implements Focusable {
     public Frame() {

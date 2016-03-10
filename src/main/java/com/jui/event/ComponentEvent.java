@@ -5,8 +5,8 @@ import com.jui.Component;
 /**
  * ComponentEvent
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class ComponentEvent {
     public static final int COMPONENT_MOVED = 300;

@@ -7,8 +7,8 @@ import java.awt.*;
 /**
  * DropShadow
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class DropShadow {
     protected final Model model = new Model();

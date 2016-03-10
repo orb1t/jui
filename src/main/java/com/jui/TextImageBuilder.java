@@ -9,8 +9,8 @@ import java.util.Set;
 /**
  * TextImageBuilder
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class TextImageBuilder extends ComponentImageBuilder {
     @Override

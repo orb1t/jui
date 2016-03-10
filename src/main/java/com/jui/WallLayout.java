@@ -7,8 +7,8 @@ import java.awt.*;
 /**
  * WallLayout
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class WallLayout implements com.jui.LayoutManager {
     private final Model model = new Model();

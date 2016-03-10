@@ -3,8 +3,8 @@ package com.jui.event;
 /**
  * ComponentListener
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public interface ComponentListener extends EventListener {
     public void onResize(ComponentEvent e);

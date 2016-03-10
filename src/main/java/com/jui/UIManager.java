@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * UIManager
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class UIManager {
     private static RootPane pane = new RootPane();

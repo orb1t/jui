@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * RootPaneLayout
  *
- * @author Ian
- * @version 1.0
+ * @author Ian Caffey
+ * @since 1.0
  */
 public class RootPaneLayout implements com.jui.LayoutManager {
     @Override
